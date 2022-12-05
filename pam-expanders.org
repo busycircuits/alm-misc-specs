@@ -1,10 +1,10 @@
 * Pam Expander Connections
 
-The NEW Pam expander connector style was changed in the PRO due to various issues including;
+The 'NEW Pam' expander connector style was changed in the 'PRO Pam' due to various issues including;
 
-+ It was the same connector type as the power header. Plugging power
-  onto the expander connector would fry the module and cause
-  irepairable damage.
++ It was the same connector type as the power header. Accidently plugging power
+   onto the expander connector would fry the module and cause
+   irepairable damage.
 + Connector was non keyed causing confusion.
 + Connector was non latching (easily came loose).
 + Large size.
@@ -49,6 +49,6 @@ All non power signals are 3v max. They need buffering and level
 shifting (expanders do this) or otherwise they can damage Pam.
 
 *PLEASE NOTE EVERYTHING IS PROVIDED AS IS. WE ARE UNABLE PROVIDE ANY SUPPORT TO ANYONE ATTEMPTING TO USE THIS INFORMATION. DIY-ING A CABLE OR ATTEMPTING TO CONNECT TO ANYTHING OTHER THAN AN OFFICIAL ALM PAM
-EXPANDER WILL INVALIDATE YORU WARRANTY!*
+EXPANDER WILL INVALIDATE YOUR WARRANTY!*
 
 
