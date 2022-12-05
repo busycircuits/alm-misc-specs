@@ -27,9 +27,10 @@ o RUN
 o CLOCK
 o DATA
 o GND
+
 #+END_SRC
 
-This is a 'Dupont' style connector with 2.54mm pitch 
+(This is a 'Dupont' style connector with 2.54mm pitch.)
 
 *Pam PRO*
 
@@ -39,9 +40,10 @@ o RUN
 o DATA
 o CLOCK
 o +5V
+
 #+END_SRC
 
-This is a ZH 'JST Micro Connector' with 1.5mm pitch 
+(This is a ZH 'JST Micro Connector' with 1.5mm pitch.)
 
 All non power signals are 3v max. They need buffering and level
 shifting (expanders do this) or otherwise they can damage Pam.
