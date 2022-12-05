@@ -21,30 +21,32 @@ Looking at either module from the rear then pin signals are top to bottom as fol
 
 *Pam NEW*
 
+#+BEGIN_SRC
 o +5V
 o RUN
 o CLOCK
 o DATA
 o GND
+#+END_SRC
 
 This is a 'Dupont' style connector with 2.54mm pitch 
 
 *Pam PRO*
 
+#+BEGIN_SRC
 o GND
 o RUN
 o DATA
 o CLOCK
 o +5V
+#+END_SRC
 
 This is a ZH 'JST Micro Connector' with 1.5mm pitch 
 
 All non power signals are 3v max. They need buffering and level
 shifting (expanders do this) or otherwise they can damage Pam.
 
-*PLEASE NOTE EVERYTHING IS PROVIDED AS IS. WE ARE UNABLE PROVIDE ANY
-SUPPORT TO ANYONE ATTEMPTING TO USE THIS INFORMATION. DIY-ING A CABLE
-OR ATTEMPTING TO CONNECT TO ANYTHING OTHER THAN AN OFFICIAL ALM PAM
+*PLEASE NOTE EVERYTHING IS PROVIDED AS IS. WE ARE UNABLE PROVIDE ANY SUPPORT TO ANYONE ATTEMPTING TO USE THIS INFORMATION. DIY-ING A CABLE OR ATTEMPTING TO CONNECT TO ANYTHING OTHER THAN AN OFFICIAL ALM PAM
 EXPANDER WILL INVALIDATE YORU WARRANTY!*
 
 
